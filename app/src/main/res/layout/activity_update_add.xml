@@ -15,11 +15,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <EditText
-        android:id="@+id/etPhone"
-        android:hint="Phone"
-        android:layout_marginBottom="10dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+    android:id="@+id/etPhone"
+    android:hint="Phone"
+    android:layout_marginBottom="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"/>
     <EditText
         android:id="@+id/etAlamat"
         android:hint="Alamat"

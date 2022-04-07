@@ -31,8 +31,7 @@
                     android:id="@+id/tvName"
                     android:text="Muhamad Alamsyah"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"/>
-            </LinearLayout>
+                    android:layout_height="wrap_content"/></LinearLayout>
             <LinearLayout
                 android:background="#dddddd"
                 android:layout_marginLeft="8dp"
